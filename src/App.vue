@@ -54,15 +54,6 @@ onMounted(fetchjsonfiles);
 </template>
 
 <style scoped>
-body {
-  font-family: arial, sans-serif;
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-start;
-  min-height: 100vh;
-  margin: 0;
-}
-
 ul {
   max-width: 100%;
   overflow-wrap: break-word;
